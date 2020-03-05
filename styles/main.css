@@ -1,0 +1,12 @@
+.jokeList{
+display:flex;
+flex-wrap: wrap;
+flex:auto;
+justify-content: space-between;
+
+}
+
+.oneJoke{
+    border: solid;
+    flex-basis: 30%;
+}
